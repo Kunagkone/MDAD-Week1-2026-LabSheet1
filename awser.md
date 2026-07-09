@@ -53,3 +53,8 @@ TODO สำหรับนักศึกษา:
 
 <img width="1913" height="1018" alt="image" src="https://github.com/user-attachments/assets/ae7dbecd-1bc4-40f9-9f58-608e30f3ee95" />
 
+
+
+เปรียบเทียบ: ผลลัพธ์จาก Prompt แบบ Simple vs Detailed ต่างกันอย่างไร?
+
+จาการสังเกคุ มีความเร็วที่แคกค่างกันมาก
