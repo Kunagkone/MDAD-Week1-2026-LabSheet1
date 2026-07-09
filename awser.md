@@ -38,11 +38,17 @@ TODO สำหรับนักศึกษา:
 
 
 ขั้นตอนที่ 6: ทดลอง Hot Reload
+
 รันแอปให้แสดงบน Emulator/Device
+
 เปลี่ยนข้อความ 'Profile' ใน AppBar เป็น 'โปรไฟล์ของฉัน'
+
 บันทึกไฟล์ (Ctrl+S) → สังเกตว่า UI อัปเดตทันที
+
 เปลี่ยนสี Colors.teal เป็น Colors.orange
+
 บันทึกไฟล์อีกครั้ง → สังเกตการเปลี่ยนสีทันที
+
 ลองกด R ใน Terminal เพื่อ Hot Restart
 
 <img width="1913" height="1018" alt="image" src="https://github.com/user-attachments/assets/ae7dbecd-1bc4-40f9-9f58-608e30f3ee95" />
